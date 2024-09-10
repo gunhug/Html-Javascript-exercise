@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <script>
+        var expect = function(val){
+        function toBe(x){
+            if( val === x){
+                return true;
+            } else{
+                return {
+                    error:"Not equal"
+                }
+            }
+        }
+
+        function notToBe(x){
+            if( val !== x ){
+                return true;
+            } else{
+                return {
+                    error:"Equal"
+                }
+            }
+        }
+
+        return{ toBe, notToBe
+        }
+    };
+
+    const func = () => expect(5).ToBe(5);
+    console.log(func());
+
+    
+    </script>
+</body>
+</html>
