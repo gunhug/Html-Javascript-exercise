@@ -1,0 +1,90 @@
+{
+    "activity": [
+        {
+            "id": 1,
+            "company_logo":"asset/img/logo-og/JL.png",
+            "company_name": "Justiva Law",
+            "days": "10",
+            "image":"asset/img/img-activity/img-activity-1.png",
+            "title":"Chung tay trao cơ hội xây dựng An Toàn Trường học cho thế hệ trẻ",
+            "view_donate":"12.345"
+        },
+
+        {
+            "id": 2,
+            "company_logo":"asset/img/logo-og/JL.png",
+            "company_name": "Justiva Law",
+            "days": "110",
+            "image":"asset/img/img-activity/img-activity-2.png",
+            "title":"'Hạnh phúc trẻ thơ' Góp hơn 2.000 phần quà cho các trẻ nhỏ có hoàn cảnh khó khăn tại Hà Nội. ",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 3,
+            "company_logo":"asset/img/logo-og/A.png",
+            "company_name": "Alfacens",
+            "days": "150",
+            "image":"asset/img/img-activity/img-activity-3.png",
+            "title":"Chiến dịch sức khỏe học đường đến học sinh cả nước 2024",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 4,
+            "company_logo":"asset/img/logo-og/A.png",
+            "company_name": "Alfacens",
+            "days": "234",
+            "image":"asset/img/img-activity/img-activity-6.png",
+            "title":"Chiến dịch sức khỏe học đường đến học sinh cả nước 2024",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 5,
+            "company_logo":"asset/img/logo-og/A.png",
+            "company_name": "Alfacens",
+            "days": "58",
+            "image":"asset/img/img-activity/img-activity-4.png",
+            "title":"Chiến dịch sức khỏe học đường đến học sinh cả nước 2024",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 6,
+            "company_logo":"asset/img/logo-og/JL.png",
+            "company_name": "Justiva Law",
+            "days": "140",
+            "image":"asset/img/img-activity/img-activity-5.png",
+            "title":"Hỗ trợ chi phí y khoa giúp trẻ ung thư ở BV Nhi đồng TP.HCM vững bước không gục ngã",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 7,
+            "company_logo":"asset/img/logo-og/A.png",
+            "company_name": "Alfacens",
+            "days": "158",
+            "image":"asset/img/img-activity/img-activity-6.png",
+            "title":"Chiến dịch sức khỏe học đường đến học sinh cả nước 2024",
+            "view_donate":"12.345"
+
+        },
+
+        {
+            "id": 8,
+            "company_logo":"asset/img/logo-og/A.png",
+            "company_name": "Alfacens",
+            "days": "256",
+            "image":"asset/img/img-activity/img-activity-3.png",
+            "title":"Chiến dịch sức khỏe học đường đến học sinh cả nước 2024",
+            "view_donate":"12.345"
+
+        }
+    ]
+}
